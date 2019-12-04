@@ -6,9 +6,9 @@ function Contact() {
     <section className="App-contact">
       <h2>Contact</h2>
       <address>
-        Name: Sally Brown <br></br>
-        Email: SallyStudent@gmail.com <br></br>
-        Phone: (801) 548-7484 <br></br>
+        <font color="white">Name:</font> Fernando Gaol<br></br>
+        <font color="white">Email:</font> fernandogaol94@gmail.com<br></br>
+        <font color="white">Phone:</font> (707) 217-4917<br></br>
       </address>
     </section>
   );
